@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Environment
+.env
+.venv
+venv/
+
+# Docker
+.dockerignore
+
+# IDE
+.vscode
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
