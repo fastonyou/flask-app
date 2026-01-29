@@ -6,3 +6,4 @@ Stack:
 - GET /health - Health check
 - GET /counter - Visit counter
 - Get /user - Users list
+## Author: Ivan Pavlenko
